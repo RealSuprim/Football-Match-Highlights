@@ -5,9 +5,9 @@ A curated collection of websites to watch football match highlights and access c
 ## Match Highlights
 
 ### Free Platforms
-* [**Footyroom**](https://footyroom.com) - Quick highlights of major leagues and tournaments
+* [**Football Highlights**](https://footballhighlights.net) - Quick highlights of major leagues and tournaments
+* [**Footyroom**](https://footyroom.com) - Comprehensive match highlights archive
 * [**Reddit Soccer**](https://reddit.com/r/soccer) - Community-driven highlight sharing platform
-* [**Football Highlights**](https://footballhighlights.net) - Comprehensive match highlights archive
 * **YouTube Official Channels**
   * [**UEFA Champions League**](https://youtube.com/c/UEFAChampionsLeague)
   * [**Premier League**](https://youtube.com/c/premierleague)
