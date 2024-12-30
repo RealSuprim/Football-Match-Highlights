@@ -22,6 +22,7 @@ A curated collection of websites to watch football match highlights and access c
 ## Statistics & Analysis
 
 ### Comprehensive Stats
+* ⭐ [**Kickoff Predictions**](https://kickoffpredictions.com) - Match predictions and statistical analysis
 * [**WhoScored**](https://www.whoscored.com) - In-depth match statistics, player ratings, and team analysis
 * [**FBref**](https://fbref.com) - Extensive database of historical and current statistics
 * [**Transfermarkt**](https://www.transfermarkt.com) - Player valuations, transfer history, and team statistics
